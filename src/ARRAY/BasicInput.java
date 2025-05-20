@@ -43,8 +43,5 @@ public class BasicInput {
 
         System.out.println(Arrays.toString(str));
 
-
-
-
     }
 }
