@@ -1,5 +1,4 @@
 package ARRAY;
-
 import java.util.Arrays;
 
 public class SWAP {
