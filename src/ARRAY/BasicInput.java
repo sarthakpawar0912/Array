@@ -17,7 +17,9 @@ public class BasicInput {
         arr[4]=50;
 
         for (int i=0;i<arr.length;i++){
+
             arr[i]=sc.nextInt();
+
         }
 
         System.out.println(Arrays.toString(arr));
