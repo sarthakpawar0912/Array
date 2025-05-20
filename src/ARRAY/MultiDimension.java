@@ -34,6 +34,7 @@ public class MultiDimension {
                 System.out.println("Enter the value for arr["+row+"]["+col+"]:");
 
                 arr[row][col]=sc.nextInt();
+
             }
         }
 
