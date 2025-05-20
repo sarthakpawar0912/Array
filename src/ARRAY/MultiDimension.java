@@ -30,6 +30,7 @@ public class MultiDimension {
 
             //for each col in every row
             for (int col=0;col<arr[row].length;col++){
+
                 System.out.println("Enter the value for arr["+row+"]["+col+"]:");
                 arr[row][col]=sc.nextInt();
             }
