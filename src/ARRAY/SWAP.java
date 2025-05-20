@@ -12,6 +12,7 @@ public class SWAP {
         System.out.println(Arrays.toString(arr));
 
     }
+
     static void swap(int[] arr,int i,int j){
 
         int temp=arr[i];
