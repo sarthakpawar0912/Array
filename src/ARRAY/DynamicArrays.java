@@ -27,8 +27,10 @@ public class DynamicArrays {//ArrayLIST
 //        System.out.println(list.contains(100));
 
         Scanner sc=new Scanner(System.in);
+
         //input
         for(int i=0;i<10;i++){
+
             list.add(sc.nextInt());
         }
 
