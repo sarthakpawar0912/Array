@@ -31,12 +31,12 @@ public class BasicInput {
         }
 
 
-      System.out.println(arr[5]);   //index out of bound error
-
+        System.out.println(arr[5]);   //index out of bound error
 
         String [] str=new String[5];
 
         for (int i=0;i<str.length;i++){
+
             str[i]=sc.next();
         }
 
