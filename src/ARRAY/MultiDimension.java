@@ -23,6 +23,7 @@ public class MultiDimension {
 
         //input
         int[][] arr=new int[3][2];
+
         System.out.println(arr.length);
 
         for (int row=0;row<arr.length;row++){
