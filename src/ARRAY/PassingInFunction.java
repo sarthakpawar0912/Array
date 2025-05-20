@@ -6,6 +6,7 @@ public class PassingInFunction {
     public static void main(String[] args) {
 
         int[] nums={3,4,5,6,87,99};
+
         System.out.println(Arrays.toString(nums));
         change(nums);
         System.out.println(Arrays.toString(nums));
