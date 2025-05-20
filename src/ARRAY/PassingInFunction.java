@@ -2,6 +2,7 @@ package ARRAY;
 import java.util.Arrays;
 
 public class PassingInFunction {
+
     public static void main(String[] args) {
 
         int[] nums={3,4,5,6,87,99};
