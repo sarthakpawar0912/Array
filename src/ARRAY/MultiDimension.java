@@ -13,7 +13,6 @@ public class MultiDimension {
 //                {7,8,9}  //2nd index
 //        };
 
-
 //        int[][] arr2D={
 //                {1,2,3},//0th index
 //                {4,5},  //1st index
