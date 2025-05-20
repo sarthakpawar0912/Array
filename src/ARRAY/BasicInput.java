@@ -9,6 +9,7 @@ public class BasicInput {
         Scanner sc=new Scanner(System.in);
 
         int arr[]=new int[5];
+
         arr[0]=10;
         arr[1]=20;
         arr[2]=30;
