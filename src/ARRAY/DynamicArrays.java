@@ -32,6 +32,7 @@ public class DynamicArrays {//ArrayLIST
         for(int i=0;i<10;i++){
 
             list.add(sc.nextInt());
+
         }
 
         //get item at any index[[0]]
