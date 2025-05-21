@@ -18,7 +18,6 @@ public class MultiDimension {
 //                {4,5},  //1st index
 //                {6,7,8,9} //2nd index----------->arr2D[2]={6,7,8,9}
 //
-//
 //      };
 
         Scanner sc=new Scanner(System.in);
