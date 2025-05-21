@@ -19,6 +19,7 @@ public class MaxInArray {
         if (arr[i] > maxVal) {
 
             maxVal = arr[i];
+
         }
     }
     return maxVal;
