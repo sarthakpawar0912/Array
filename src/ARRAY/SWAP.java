@@ -22,5 +22,4 @@ public class SWAP {
         arr[j]=temp;
 
     }
-
 }
