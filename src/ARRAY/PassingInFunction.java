@@ -16,7 +16,6 @@ public class PassingInFunction {
     }
     static void change(int[] arr)
     {
-
         arr[0]=10;
 
     }
