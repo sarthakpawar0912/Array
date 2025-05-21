@@ -25,5 +25,5 @@ public class MaxInArray {
 
     return maxVal;
 
-}
+    }
 }
