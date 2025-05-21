@@ -3,6 +3,7 @@ package ARRAY;
 public class MaxInArray {
    
     public static void main(String[] args) {
+
        int[] arr={32,12,655,78,54,86,03,99};
         System.out.println(max(arr));
 }
