@@ -41,6 +41,5 @@ public class DynamicArrays {//ArrayLIST
             System.out.println(list.get(i));
 
         }
-
     }
 }
