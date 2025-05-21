@@ -47,7 +47,6 @@ public class MultiDimension {
                 System.out.print(arr[row][col]+" ");
 
             }
-
             System.out.println();
         }
     }
