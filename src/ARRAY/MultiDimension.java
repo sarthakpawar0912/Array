@@ -50,6 +50,5 @@ public class MultiDimension {
 
             System.out.println();
         }
-
     }
 }
