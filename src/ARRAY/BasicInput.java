@@ -30,7 +30,6 @@ public class BasicInput {
 
         }
 
-
         System.out.println(arr[5]);   //index out of bound error
 
         String [] str=new String[5];
