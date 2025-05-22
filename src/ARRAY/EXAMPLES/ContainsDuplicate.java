@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 
 public class ContainsDuplicate {
+
     public boolean containsDuplicate(int[] nums) {
         // Convert nums to ArrayList
         ArrayList<Integer> list = new ArrayList<>();
