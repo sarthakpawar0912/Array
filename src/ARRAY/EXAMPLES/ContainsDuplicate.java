@@ -58,4 +58,5 @@ public class ContainsDuplicate {
         System.out.println("Test case 3: Contains duplicate = " + solution.containsDuplicate(nums3)); // Expected: true
 
     }
+
 }
