@@ -15,6 +15,7 @@ public class BuyANDSell_Stocks {
 
             // Update minPrice if current price is lower
             if (prices[i] < minPrice) {
+
                 minPrice = prices[i];
             }
             // Calculate profit if selling today
