@@ -26,6 +26,7 @@ public class ContainsDuplicate {
             if (set.contains(num)) {
 
                 return true; // Duplicate found
+
             }
             set.add(num);
         }
