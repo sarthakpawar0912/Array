@@ -25,6 +25,7 @@ public class BuyANDSell_Stocks {
 
             // Update maxProfit if current profit is higher
             if (profit > maxProfit) {
+
                 maxProfit = profit;
             }
         }
