@@ -20,6 +20,7 @@ public class ContainsDuplicate {
 
         // Check for duplicates
         for (int i = 0; i < list.size(); i++) {
+
             int num = list.get(i);
             if (set.contains(num)) {
                 return true; // Duplicate found
