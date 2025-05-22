@@ -8,6 +8,7 @@ public class ContainsDuplicate {
 
         // Convert nums to ArrayList
         ArrayList<Integer> list = new ArrayList<>();
+
         for (int i = 0; i < nums.length; i++) {
             list.add(nums[i]);
         }
