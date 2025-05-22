@@ -12,6 +12,7 @@ public class BuyANDSell_Stocks {
 
         // Iterate through prices
         for (int i = 0; i < prices.length; i++) {
+
             // Update minPrice if current price is lower
             if (prices[i] < minPrice) {
                 minPrice = prices[i];
