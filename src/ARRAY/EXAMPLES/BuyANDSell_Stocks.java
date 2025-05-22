@@ -36,6 +36,7 @@ public class BuyANDSell_Stocks {
     }
 
     public static void main(String[] args) {
+
         BuyANDSell_Stocks solution = new BuyANDSell_Stocks();
 
         // Test case 1: prices = [7,1,5,3,6,4]
