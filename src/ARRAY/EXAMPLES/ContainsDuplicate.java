@@ -12,6 +12,7 @@ public class ContainsDuplicate {
         for (int i = 0; i < nums.length; i++) {
 
             list.add(nums[i]);
+
         }
 
         // HashSet to track seen numbers
