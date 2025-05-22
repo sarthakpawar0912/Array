@@ -47,6 +47,7 @@ public class ContainsDuplicate {
         System.out.println("Test case 1: Contains duplicate = " + solution.containsDuplicate(nums1)); // Expected: true
 
         // Test case 2: nums = [1,2,3,4]
+
         int[] nums2 = {1, 2, 3, 4};
         System.out.println("Test case 2: Contains duplicate = " + solution.containsDuplicate(nums2)); // Expected: false
 
