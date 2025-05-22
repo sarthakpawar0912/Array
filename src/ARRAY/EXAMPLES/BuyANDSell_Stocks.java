@@ -7,6 +7,7 @@ public class BuyANDSell_Stocks {
         // Initialize minimum price to a very large value
         // Ensures any price in the array will be smaller
         int minPrice = Integer.MAX_VALUE;
+
         int maxProfit = 0;
 
         // Iterate through prices
