@@ -30,6 +30,7 @@ public class ContainsDuplicate {
             }
 
             set.add(num);
+
         }
 
         return false; // No duplicates
