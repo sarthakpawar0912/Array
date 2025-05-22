@@ -1,7 +1,9 @@
 package ARRAY.EXAMPLES;
 
 public class BuyANDSell_Stocks {
+
     public int maxProfit(int[] prices) {
+
         // Initialize minimum price to a very large value
         // Ensures any price in the array will be smaller
         int minPrice = Integer.MAX_VALUE;
