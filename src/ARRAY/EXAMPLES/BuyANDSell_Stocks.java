@@ -27,6 +27,7 @@ public class BuyANDSell_Stocks {
             if (profit > maxProfit) {
 
                 maxProfit = profit;
+
             }
         }
 
