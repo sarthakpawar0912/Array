@@ -28,6 +28,7 @@ public class ContainsDuplicate {
                 return true; // Duplicate found
 
             }
+
             set.add(num);
         }
 
