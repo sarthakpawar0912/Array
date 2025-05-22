@@ -19,6 +19,7 @@ public class BuyANDSell_Stocks {
                 minPrice = prices[i];
 
             }
+
             // Calculate profit if selling today
             int profit = prices[i] - minPrice;
             // Update maxProfit if current profit is higher
