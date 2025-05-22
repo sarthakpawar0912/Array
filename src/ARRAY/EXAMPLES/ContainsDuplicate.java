@@ -34,6 +34,7 @@ public class ContainsDuplicate {
         }
 
         return false; // No duplicates
+
     }
 
     public static void main(String[] args) {
