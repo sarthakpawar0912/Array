@@ -46,6 +46,7 @@ public class BuyANDSell_Stocks {
 
         // Test case 2: prices = [7,6,4,3,1]
         int[] prices2 = {7, 6, 4, 3, 1};
+
         System.out.println("Test case 2: Max profit = " + solution.maxProfit(prices2)); // Expected: 0
 
         // Test case 3: prices = [1]
