@@ -38,6 +38,7 @@ public class ContainsDuplicate {
     }
 
     public static void main(String[] args) {
+
         ContainsDuplicate solution = new ContainsDuplicate();
 
         // Test case 1: nums = [1,2,3,1]
