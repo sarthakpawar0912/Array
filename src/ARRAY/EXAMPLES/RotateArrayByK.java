@@ -22,11 +22,13 @@ public class RotateArrayByK {
         // Step 1: Reverse the entire array
         reverse(nums, 0, nums.length - 1);
 
+
         // Step 2: Reverse the first k elements
         reverse(nums, 0, k - 1);
 
         // Step 3: Reverse the remaining n - k elements
         reverse(nums, k, nums.length - 1);
+
     }
 
     // Helper method to reverse elements in the array from start to end
