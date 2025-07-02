@@ -59,6 +59,7 @@ public class RotateArrayByK {
         int[] nums = {1, 2, 3, 4, 5, 6, 7};
 
         int k = 3;
+
         // Call the rotate method to perform cyclic rotation by k
         rotator.rotate(nums, k);
         // Print the rotated array
