@@ -5,6 +5,7 @@ import java.util.Collections;
 public class MajorityElement {
 
     public int majorityElement(int[] nums) {
+
         // Create an ArrayList to store elements
         ArrayList<Integer> list = new ArrayList<>();
 
