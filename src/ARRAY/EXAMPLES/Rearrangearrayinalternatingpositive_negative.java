@@ -17,6 +17,7 @@ public class Rearrangearrayinalternatingpositive_negative {
             if (nums[i] >= 0) {
 
                 positive.add(nums[i]);
+
             } else {
                 negative.add(nums[i]);
             }
