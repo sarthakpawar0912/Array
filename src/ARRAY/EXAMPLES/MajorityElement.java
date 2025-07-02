@@ -13,6 +13,7 @@ public class MajorityElement {
         for (int i = 0; i < nums.length; i++) {
 
             list.add(nums[i]);
+
         }
 
         // Sort the ArrayList
