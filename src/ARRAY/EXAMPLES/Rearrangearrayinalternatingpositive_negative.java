@@ -11,6 +11,7 @@ public class Rearrangearrayinalternatingpositive_negative {
         ArrayList<Integer> negative = new ArrayList<>();
 
         // Separate positive and negative numbers
+
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] >= 0) {
                 positive.add(nums[i]);
