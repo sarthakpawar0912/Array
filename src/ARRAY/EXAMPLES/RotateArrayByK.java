@@ -54,6 +54,7 @@ public class RotateArrayByK {
 
         // Create an instance of RotateArrayByK
         RotateArrayByK rotator = new RotateArrayByK();
+
         // Example array and rotation value
         int[] nums = {1, 2, 3, 4, 5, 6, 7};
         int k = 3;
