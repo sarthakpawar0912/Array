@@ -23,6 +23,7 @@ public class MajorityElement {
         return list.get(list.size() / 2);
 
     }
+
     public static void main(String[] args) {
         MajorityElement solution = new MajorityElement();
 
