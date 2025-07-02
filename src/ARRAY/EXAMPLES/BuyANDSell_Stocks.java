@@ -1,5 +1,6 @@
 package ARRAY.EXAMPLES;
 
+
 public class BuyANDSell_Stocks {
 
     public int maxProfit(int[] prices) {
