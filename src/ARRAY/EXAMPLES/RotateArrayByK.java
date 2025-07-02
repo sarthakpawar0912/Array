@@ -38,9 +38,11 @@ public class RotateArrayByK {
         while (start < end) {
 
             // Swap nums[start] and nums[end]
+
             int temp = nums[start];
             nums[start] = nums[end];
             nums[end] = temp;
+
             // Move pointers inward
             start++;
             end--;
