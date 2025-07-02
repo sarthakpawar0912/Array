@@ -40,5 +40,6 @@ public class MajorityElement {
         // Test case 3: nums = [1]
         int[] nums3 = {1};
         System.out.println("Test case 3: Majority element = " + solution.majorityElement(nums3)); // Expected: 1
+
     }
 }
