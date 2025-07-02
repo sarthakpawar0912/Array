@@ -11,6 +11,7 @@ public class MajorityElement {
 
         // Copy nums to ArrayList
         for (int i = 0; i < nums.length; i++) {
+
             list.add(nums[i]);
         }
 
