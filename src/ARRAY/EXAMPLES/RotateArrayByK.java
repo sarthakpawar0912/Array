@@ -11,6 +11,7 @@ public class RotateArrayByK {
 
         // Normalize k to handle k > nums.length
         k = k % nums.length;
+
         // If k == 0 after normalization, no rotation needed
         if (k == 0) {
             return;
