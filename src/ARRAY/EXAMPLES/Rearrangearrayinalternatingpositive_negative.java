@@ -4,6 +4,7 @@ import java.util.ArrayList;
 public class Rearrangearrayinalternatingpositive_negative {
 
     public void rearrange(int[] nums) {
+
         // Create ArrayLists for positive and negative numbers
         ArrayList<Integer> positive = new ArrayList<>();
         ArrayList<Integer> negative = new ArrayList<>();
