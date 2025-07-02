@@ -24,14 +24,11 @@ public class ContainsDuplicate {
             int num = list.get(i);
 
             if (set.contains(num)) {
-
                 return true; // Duplicate found
 
             }
             set.add(num);
-
         }
-
         return false; // No duplicates
 
     }
