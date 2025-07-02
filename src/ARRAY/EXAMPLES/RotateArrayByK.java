@@ -69,5 +69,6 @@ public class RotateArrayByK {
         for (int num : nums) {
             System.out.print(num + " ");
         }
+
     }
 }
