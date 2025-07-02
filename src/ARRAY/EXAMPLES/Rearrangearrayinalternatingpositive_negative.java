@@ -13,6 +13,7 @@ public class Rearrangearrayinalternatingpositive_negative {
         // Separate positive and negative numbers
 
         for (int i = 0; i < nums.length; i++) {
+
             if (nums[i] >= 0) {
                 positive.add(nums[i]);
             } else {
