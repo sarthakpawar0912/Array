@@ -25,6 +25,7 @@ public class MajorityElement {
     }
 
     public static void main(String[] args) {
+
         MajorityElement solution = new MajorityElement();
 
         // Test case 1: nums = [3,2,3]
