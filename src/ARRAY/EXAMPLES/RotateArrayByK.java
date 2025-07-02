@@ -14,7 +14,9 @@ public class RotateArrayByK {
 
         // If k == 0 after normalization, no rotation needed
         if (k == 0) {
+
             return;
+
         }
 
         // Step 1: Reverse the entire array
