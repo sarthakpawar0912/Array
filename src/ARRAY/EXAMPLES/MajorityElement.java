@@ -42,4 +42,5 @@ public class MajorityElement {
         System.out.println("Test case 3: Majority element = " + solution.majorityElement(nums3)); // Expected: 1
 
     }
+
 }
