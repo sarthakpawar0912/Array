@@ -21,6 +21,7 @@ public class MajorityElement {
 
         // Return the middle element (index n/2)
         return list.get(list.size() / 2);
+
     }
     public static void main(String[] args) {
         MajorityElement solution = new MajorityElement();
