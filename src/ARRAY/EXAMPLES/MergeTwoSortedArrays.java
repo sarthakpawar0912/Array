@@ -3,11 +3,13 @@ package ARRAY.EXAMPLES;
 public class MergeTwoSortedArrays {
 
     public void merge(int[] nums1, int m, int[] nums2, int n) {
+
         // Create a temporary array to store merged result
         int[] result = new int[m + n];
 
         // Initialize pointers for nums1, nums2, and result
         int i = 0; // Pointer for nums1
+
         int j = 0; // Pointer for nums2
         int k = 0; // Pointer for result
 
