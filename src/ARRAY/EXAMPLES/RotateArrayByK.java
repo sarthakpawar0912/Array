@@ -3,6 +3,7 @@ package ARRAY.EXAMPLES;
 public class RotateArrayByK {
 
     public void rotate(int[] nums, int k) {
+
         // Handle edge cases: null, empty, or single-element array
         if (nums == null || nums.length <= 1) {
             return;
