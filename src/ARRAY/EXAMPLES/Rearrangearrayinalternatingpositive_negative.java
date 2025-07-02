@@ -1,5 +1,4 @@
 package ARRAY.EXAMPLES;
-
 import java.util.ArrayList;
 
 public class Rearrangearrayinalternatingpositive_negative {
