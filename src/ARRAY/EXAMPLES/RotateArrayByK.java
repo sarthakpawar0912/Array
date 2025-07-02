@@ -46,10 +46,12 @@ public class RotateArrayByK {
             // Move pointers inward
             start++;
             end--;
+
         }
     }
 
     public static void main(String[] args) {
+
         // Create an instance of RotateArrayByK
         RotateArrayByK rotator = new RotateArrayByK();
         // Example array and rotation value
