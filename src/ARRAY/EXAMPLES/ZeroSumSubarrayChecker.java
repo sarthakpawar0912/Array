@@ -13,6 +13,7 @@ public class ZeroSumSubarrayChecker {
         int sum = 0;
 
         for (int num : arr) {
+
             sum += num;
 
             // Check for three conditions:
