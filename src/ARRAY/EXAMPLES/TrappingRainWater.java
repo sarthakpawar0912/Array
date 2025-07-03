@@ -60,10 +60,13 @@ public class TrappingRainWater {
                 }
 
                 right--;
+
             }
+
         }
 
         return water;
+
     }
 
     public static void main(String[] args) {
