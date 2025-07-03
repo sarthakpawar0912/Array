@@ -53,8 +53,10 @@ public class TrappingRainWater {
                     rightMax = list.get(right);
 
                 } else {
+
                     // Water trapped at right
                     water += rightMax - list.get(right);
+
                 }
                 right--;
             }
