@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class TWOsum {
+
     public int[] twoSum(int[] nums, int target) {
     // Convert nums to ArrayList
     ArrayList<Integer> list = new ArrayList<>();
