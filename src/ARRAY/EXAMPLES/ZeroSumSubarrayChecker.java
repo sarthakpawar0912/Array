@@ -20,7 +20,9 @@ public class ZeroSumSubarrayChecker {
             // 1. current sum is 0
             // 2. current element is 0
             // 3. sum already seen before (means subarray in between sums to 0)
+
             if (sum == 0 || num == 0 || sumSet.contains(sum)) {
+
                 return true;
             }
 
