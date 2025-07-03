@@ -39,7 +39,9 @@ public class ZeroSumSubarrayChecker {
     public static void main(String[] args) {
 
         int[][] testCases = {
+
                 {4, 2, -3, 1, 6},     // true: [2, -3, 1]
+
                 {1, 2, 3},            // false
                 {-3, 2, 3, 1, 6},     // true: [-3, 2, 1]
                 {1, -1},              // true: [1, -1]
