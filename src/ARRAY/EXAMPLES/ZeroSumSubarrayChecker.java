@@ -47,9 +47,13 @@ public class ZeroSumSubarrayChecker {
                 {-3, 2, 3, 1, 6},     // true: [-3, 2, 1]
 
                 {1, -1},              // true: [1, -1]
+
                 {0},                  // true: [0]
+
                 {},                   // false
+
                 {1, 2, -2, 3},        // true: [2, -2]
+
                 {3, 4, -7, 5, -6, 2}  // true: [3, 4, -7]
         };
 
