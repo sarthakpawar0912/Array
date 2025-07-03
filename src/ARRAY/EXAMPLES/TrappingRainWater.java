@@ -40,6 +40,7 @@ public class TrappingRainWater {
 
                     // Water trapped at left
                     water += leftMax - list.get(left);
+
                 }
                 left++;
             } else {
