@@ -3,6 +3,7 @@ package ARRAY.EXAMPLES;
 import java.util.ArrayList;
 
 public class TrappingRainWater {
+
     public int trap(int[] height) {
         // Convert height to ArrayList
         ArrayList<Integer> list = new ArrayList<>();
