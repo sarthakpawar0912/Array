@@ -16,9 +16,11 @@ public class TrappingRainWater {
         }
 
         int n = list.size();
+
         if (n <= 2) return 0; // Need at least 3 bars to trap water
 
         int left = 0, right = n - 1;
+
         int leftMax = 0, rightMax = 0;
         int water = 0;
 
