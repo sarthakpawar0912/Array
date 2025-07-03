@@ -32,10 +32,12 @@ public class ZeroSumSubarrayChecker {
         }
 
         return false;
+
     }
 
     // Main function to run multiple test cases
     public static void main(String[] args) {
+
         int[][] testCases = {
                 {4, 2, -3, 1, 6},     // true: [2, -3, 1]
                 {1, 2, 3},            // false
