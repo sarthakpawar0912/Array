@@ -59,7 +59,9 @@ public class ZeroSumSubarrayChecker {
         };
 
         for (int i = 0; i < testCases.length; i++) {
+
             boolean result = hasZeroSumSubarray(testCases[i]);
+
             System.out.println("Test case " + (i + 1) + ": " + (result ? "Zero-sum subarray exists" : "No zero-sum subarray"));
         }
     }
