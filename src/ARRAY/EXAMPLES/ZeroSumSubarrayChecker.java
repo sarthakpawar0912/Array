@@ -24,9 +24,11 @@ public class ZeroSumSubarrayChecker {
             if (sum == 0 || num == 0 || sumSet.contains(sum)) {
 
                 return true;
+
             }
 
             sumSet.add(sum);
+
         }
 
         return false;
