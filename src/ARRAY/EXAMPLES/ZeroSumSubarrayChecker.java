@@ -55,6 +55,7 @@ public class ZeroSumSubarrayChecker {
                 {1, 2, -2, 3},        // true: [2, -2]
 
                 {3, 4, -7, 5, -6, 2}  // true: [3, 4, -7]
+
         };
 
         for (int i = 0; i < testCases.length; i++) {
