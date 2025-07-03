@@ -9,6 +9,7 @@ public class ZeroSumSubarrayChecker {
     public static boolean hasZeroSumSubarray(int[] arr) {
       
         HashSet<Integer> sumSet = new HashSet<>();
+
         int sum = 0;
 
         for (int num : arr) {
