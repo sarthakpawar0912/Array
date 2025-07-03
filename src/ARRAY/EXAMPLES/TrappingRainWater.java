@@ -22,10 +22,12 @@ public class TrappingRainWater {
         int left = 0, right = n - 1;
 
         int leftMax = 0, rightMax = 0;
+
         int water = 0;
 
         // Two-pointer approach
         while (left < right) {
+
             // Process the smaller side
             if (list.get(left) <= list.get(right)) {
                 // Update leftMax
