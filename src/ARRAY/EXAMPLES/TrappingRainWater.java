@@ -49,7 +49,9 @@ public class TrappingRainWater {
 
                 // Update rightMax
                 if (list.get(right) >= rightMax) {
+
                     rightMax = list.get(right);
+
                 } else {
                     // Water trapped at right
                     water += rightMax - list.get(right);
