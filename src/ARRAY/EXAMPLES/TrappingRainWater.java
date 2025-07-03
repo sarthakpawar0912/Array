@@ -12,6 +12,7 @@ public class TrappingRainWater {
         for (int i = 0; i < height.length; i++) {
 
             list.add(height[i]);
+
         }
 
         int n = list.size();
