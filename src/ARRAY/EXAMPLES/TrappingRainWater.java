@@ -58,6 +58,7 @@ public class TrappingRainWater {
                     water += rightMax - list.get(right);
 
                 }
+
                 right--;
             }
         }
