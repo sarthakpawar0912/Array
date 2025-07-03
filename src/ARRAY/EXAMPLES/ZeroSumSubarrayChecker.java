@@ -7,6 +7,7 @@ public class ZeroSumSubarrayChecker {
 
     // Function to check if a subarray with 0 sum exists
     public static boolean hasZeroSumSubarray(int[] arr) {
+      
         HashSet<Integer> sumSet = new HashSet<>();
         int sum = 0;
 
