@@ -60,6 +60,7 @@ public class TrappingRainWater {
 
         // Test case 3: height = [1]
         int[] height3 = {1};
+
         System.out.println("Test case 3: Water trapped = " + solution.trap(height3)); // Expected: 0
     }
 }
