@@ -30,6 +30,7 @@ public class TrappingRainWater {
 
             // Process the smaller side
             if (list.get(left) <= list.get(right)) {
+
                 // Update leftMax
                 if (list.get(left) >= leftMax) {
                     leftMax = list.get(left);
