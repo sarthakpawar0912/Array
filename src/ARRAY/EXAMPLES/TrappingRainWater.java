@@ -8,6 +8,7 @@ public class TrappingRainWater {
 
         // Convert height to ArrayList
         ArrayList<Integer> list = new ArrayList<>();
+
         for (int i = 0; i < height.length; i++) {
             list.add(height[i]);
         }
