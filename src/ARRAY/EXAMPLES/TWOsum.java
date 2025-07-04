@@ -29,6 +29,7 @@ public class TWOsum {
         if (map.containsKey(complement)) {
 
             return new int[] {map.get(complement), i};
+
         }
 
         // Add current number and index to map
