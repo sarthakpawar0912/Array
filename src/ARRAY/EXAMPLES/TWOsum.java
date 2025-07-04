@@ -70,6 +70,9 @@ public class TWOsum {
         int target3 = 6;
 
         int[] result3 = solution.twoSum(nums3, target3);
+
         System.out.println("Test case 3: [" + result3[0] + ", " + result3[1] + "]"); // Expected: [0, 1]
+
     }
+
 }
