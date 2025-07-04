@@ -57,9 +57,11 @@ public class LongestConsecutiveSequence {
                 currentLength = 1;
 
             }
+
         }
 
         return maxLength;
+
     }
 
     public static void main(String[] args) {
