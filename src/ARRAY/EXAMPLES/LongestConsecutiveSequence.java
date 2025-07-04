@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class LongestConsecutiveSequence {
+
     public int longestConsecutive(int[] nums) {
         // Create ArrayList and add numbers
         ArrayList<Integer> list = new ArrayList<>();
