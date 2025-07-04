@@ -27,9 +27,11 @@ public class LongestConsecutiveSequence {
 
         // Count consecutive sequences
         int maxLength = 1; // Longest sequence length
+
         int currentLength = 1; // Current sequence length
 
         for (int i = 1; i < list.size(); i++) {
+
             // Skip duplicates
             if (list.get(i).equals(list.get(i - 1))) {
                 continue;
