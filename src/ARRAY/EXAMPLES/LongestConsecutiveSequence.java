@@ -47,8 +47,12 @@ public class LongestConsecutiveSequence {
                 if (currentLength > maxLength) {
 
                     maxLength = currentLength;
+
                 }
-            } else {
+
+            }
+            else {
+
                 // Reset sequence if not consecutive
                 currentLength = 1;
             }
