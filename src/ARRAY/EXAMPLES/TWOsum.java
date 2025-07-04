@@ -12,6 +12,7 @@ public class TWOsum {
     for (int i = 0; i < nums.length; i++) {
 
         list.add(nums[i]);
+
     }
 
     // HashMap to store number and its index
