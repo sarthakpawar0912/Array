@@ -12,10 +12,12 @@ public class LongestConsecutiveSequence {
         for (int i = 0; i < nums.length; i++) {
 
             list.add(nums[i]);
+
         }
 
         // If empty, return 0
         if (list.size() == 0) {
+
             return 0;
         }
 
