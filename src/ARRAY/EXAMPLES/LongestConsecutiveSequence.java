@@ -55,6 +55,7 @@ public class LongestConsecutiveSequence {
 
                 // Reset sequence if not consecutive
                 currentLength = 1;
+
             }
         }
 
