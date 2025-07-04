@@ -38,6 +38,7 @@ public class LongestConsecutiveSequence {
                 continue;
 
             }
+
             // Check if consecutive (current = previous + 1)
             if (list.get(i) == list.get(i - 1) + 1) {
                 currentLength++;
