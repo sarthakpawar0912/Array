@@ -43,6 +43,7 @@ public class TWOsum {
 }
 
     public static void main(String[] args) {
+
         TWOsum solution = new TWOsum();
 
         // Test case 1: nums = [2,7,11,15], target = 9
