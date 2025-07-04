@@ -20,6 +20,7 @@ public class TWOsum {
 
     // Iterate through ArrayList
     for (int i = 0; i < list.size(); i++) {
+
         int num = list.get(i);
         int complement = target - num;
 
