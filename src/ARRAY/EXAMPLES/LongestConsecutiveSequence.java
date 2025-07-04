@@ -41,8 +41,11 @@ public class LongestConsecutiveSequence {
 
             // Check if consecutive (current = previous + 1)
             if (list.get(i) == list.get(i - 1) + 1) {
+
                 currentLength++;
+
                 if (currentLength > maxLength) {
+
                     maxLength = currentLength;
                 }
             } else {
