@@ -34,7 +34,9 @@ public class LongestConsecutiveSequence {
 
             // Skip duplicates
             if (list.get(i).equals(list.get(i - 1))) {
+
                 continue;
+
             }
             // Check if consecutive (current = previous + 1)
             if (list.get(i) == list.get(i - 1) + 1) {
