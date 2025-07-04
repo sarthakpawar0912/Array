@@ -34,10 +34,12 @@ public class TWOsum {
 
         // Add current number and index to map
         map.put(num, i);
+
     }
 
     // No solution (though problem guarantees one)
     return new int[] {};
+
 }
 
     public static void main(String[] args) {
