@@ -19,6 +19,7 @@ public class LongestConsecutiveSequence {
         if (list.size() == 0) {
 
             return 0;
+
         }
 
         // Sort the ArrayList
