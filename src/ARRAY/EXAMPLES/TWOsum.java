@@ -48,6 +48,7 @@ public class TWOsum {
 
         // Test case 1: nums = [2,7,11,15], target = 9
         int[] nums1 = {2, 7, 11, 15};
+
         int target1 = 9;
         int[] result1 = solution.twoSum(nums1, target1);
         System.out.println("Test case 1: [" + result1[0] + ", " + result1[1] + "]"); // Expected: [0, 1]
